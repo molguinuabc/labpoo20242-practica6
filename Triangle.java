@@ -23,10 +23,10 @@ public class Triangle
     {
         height = 60;
         width = 70;
-        xPosition = 210;
-        yPosition = 140;
-        color = "green";
-        isVisible = false;
+        xPosition = 350;
+        yPosition = 230;
+        color = "red";
+        isVisible = true;
     }
 
     /**
